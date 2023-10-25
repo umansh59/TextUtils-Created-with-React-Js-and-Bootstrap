@@ -6,6 +6,7 @@ import React, { useState } from "react";
 import Alert from "./components/Alert";
 // eslint-disable-next-line
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import Fonts from "./components/Fonts";
 
 function App() {
   const [mode, setMode] = useState("light");
@@ -81,6 +82,7 @@ function App() {
                 />
               }
             />
+            <Route path="/fonts" element={<Fonts/>}/>
           </Routes>
         </div>
       </Router>
