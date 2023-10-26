@@ -34,6 +34,10 @@ const About = () => {
       <p>
         4. Explore and compare different fonts to find the perfect match for your creative endeavors.
       </p>
+     
+
+      <iframe   style={{ margin: '20px', border: '2px solid #333' }} width="560" height="315" src="https://www.youtube.com/embed/1GWwBssXVDI?si=-uTZhrBXqiQC8BKR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+      <iframe    style={{ margin: '20px', border: '2px solid #333' }} width="560" height="315" src="https://www.youtube.com/embed/rJ2_O9gOdC4?si=NzZbD9cHZHoc8ZxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <h2>Feedback and Support</h2>
       <p>
         We value your feedback! If you have any suggestions or encounter any issues while using our platform, please don't hesitate to contact our support team at support@googlefontsshowcase.com.
