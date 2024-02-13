@@ -1,4 +1,4 @@
-This is a small project made by me from a Youtube tutorial of React Js by CodeWithHarry and added my own themes and Features in The Project In order to see the Project one must install NodeJs in their System and then use command "npm install" in the cmd after extracting the all the files present in this repository . Then he/she should run command "npm start" to start the project the project will run in the default browser
+This is a small project made by me that provides Text Utilities to the text and added my own themes and Features in The Project In order to see the Project one must install NodeJs in their System and then use command "npm install" in the cmd after extracting the all the files present in this repository . Then he/she should run command "npm start" to start the project the project will run in the default browser. I have used Google Fonts API to make a font builder and change it according to the needs of the user.
 
 # Getting Started with Create React App
 
